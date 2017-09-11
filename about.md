@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-I spend my time complaining about life.
+capital letters are overrated.
 
 ### More Information
 
-If you would like to donate, please leave a sum of at least £100 at the address:
+if you would like to donate, please leave a sum of at least £100 at the address:
 
-13 Pavilion Way,
-Amersham,
-HP6 6PZ
+17 pavilion way,
+amersham,
+hp6 6pz
+
+(this isn't my house don't get any ideas)
 
 ### Contact me
 
